@@ -14,7 +14,7 @@ export { default as Normal } from "./normal.png";
 export { default as Poison } from "./poison.png";
 export { default as Pokeball } from "./pokeball.png";
 export { default as Pokeheart } from "./PokeHeart.png";
-export { default as Pokepin } from "./pokepin.svg";
+export { default as Pokepin } from "./PokePin.svg";
 export { default as Profile } from "./profile.png";
 export { default as Psychic } from "./psychic.png";
 export { default as Rock } from "./rock.png";
